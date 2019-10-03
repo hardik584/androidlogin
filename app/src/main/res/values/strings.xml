@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Firebase</string>
+    <string name="minimum_password">Enter Minimum 6 Charactar</string>
+    <string name="auth_failed">Authentication Failed Please Check Email And Password</string>
+    <string name="dialog_message">Do You Logout From This Application?</string>
+    <string name="dialog_message2">Please Confirm Parmenet Delete Your Account?</string>
+    <string name="dialog_title">Alert!</string>
+</resources>

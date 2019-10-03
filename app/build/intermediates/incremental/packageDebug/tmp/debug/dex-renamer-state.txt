@@ -1,0 +1,4 @@
+#Thu Oct 03 16:00:21 IST 2019
+base.0=/home/rahul/MyFirebase/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
